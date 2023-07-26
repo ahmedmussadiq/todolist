@@ -56,7 +56,7 @@ transition: .3s ease;
 .container {
     width: 80%;
     height: auto;
-    margin: 25% 10%;
+    margin: 25% 5%;
     background: #FFFFFF;
     border-radius: 20px;
     border: 2px solid #555;
@@ -101,7 +101,8 @@ ul li {
     list-style: none;
     user-select: none;
     cursor: pointer;
-    padding: 15px 8px 40px 70px;
+    padding: 15px 45px 40px 70px;
+    word-break: break-word; 
 }
 
 ul li::before {
@@ -194,7 +195,7 @@ transition: .3s ease;
 .container {
     width: 80%;
     height: auto;
-    margin: 25% 10%;
+    margin: 25% 5%;
     background: #FFFFFF;
     border-radius: 20px;
     border: 2px solid #555;
@@ -239,7 +240,8 @@ ul li {
     list-style: none;
     user-select: none;
     cursor: pointer;
-    padding: 15px 8px 40px 70px;
+    padding: 15px 45px 40px 70px;
+    word-break: break-word; 
 }
 
 ul li::before {
@@ -336,7 +338,7 @@ padding-top: 8%;
     .container {
         width: 80%;
         height: auto;
-        margin: 25% 10%;
+        margin: 25% 5%;
         background: #FFFFFF;
         border-radius: 20px;
         border: 2px solid #555;
@@ -381,7 +383,8 @@ padding-top: 8%;
         list-style: none;
         user-select: none;
         cursor: pointer;
-        padding: 15px 8px 40px 70px;
+        padding: 15px 45px 40px 70px;
+        word-break: break-word; 
     }
     
     ul li::before {
@@ -481,7 +484,7 @@ padding-top: 8%;
     .container {
         width: 80%;
         height: auto;
-        margin: 25% 10%;
+        margin: 25% 5%;
         background: #FFFFFF;
         border-radius: 20px;
         border: 2px solid #555;
@@ -526,7 +529,9 @@ padding-top: 8%;
         list-style: none;
         user-select: none;
         cursor: pointer;
-        padding: 15px 8px 40px 70px;
+        padding: 15px 45px 40px 70px;
+        word-break: break-word; 
+
     }
     
     ul li::before {
