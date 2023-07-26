@@ -61,6 +61,7 @@ padding: 10px;
 flex: 1;
     border: none;
     outline: none;
+
 }
 
 button{
@@ -81,7 +82,12 @@ ul li{
     list-style: none;
     user-select: none;
     cursor: pointer;
-    padding: 25px 8px 40px 70px;
+    padding: 25px 28px 50px 70px;
+ 
+
+    word-break: break-word; 
+
+  
 }
 ul li::before{
     content: "";
